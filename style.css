@@ -149,9 +149,11 @@ nav{
 .inner-content .abc{
     padding: 20px 0;
     border-bottom: 1px solid #CBCBCB;
+    cursor: pointer;
 }
 .inner-content .abc1{
     padding: 20px 0;
+    cursor: pointer;
 }
 
 .inner-content a{
@@ -248,7 +250,7 @@ nav{
     height: 48px;
     border-radius: 10px;
     background: #BD2941;
-    top: 10%;
+    top: 12%;
     right: -12px;
     transform: translateY(-60%); 
     z-index: -1;
@@ -306,7 +308,7 @@ nav{
 
 .info-btn{
     position: relative;
-    margin: 140px 0 180px 0;
+    margin: 200px 0 200px 0;
     z-index: 200; 
 }
 
