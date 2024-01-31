@@ -8,13 +8,13 @@ const swiper = new Swiper('.swiper', {
     },
 
     autoplay: {
-        delay: 2000, 
+        delay: 5000, 
     }
   
   
   });
 
-  document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
     var mySwiper = new Swiper('.swiper', {
         // your Swiper configuration options here
     });
@@ -31,3 +31,4 @@ const swiper = new Swiper('.swiper', {
         activeBullet.style.backgroundColor = '#C8102E';
     }
 });
+
